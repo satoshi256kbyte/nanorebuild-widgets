@@ -1,0 +1,15 @@
+@import "@fontsource/anonymous-pro";
+#advertisement {
+    height: 1.2rem;
+    width: 100%;
+    font-size: 0.8rem;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+#advertisement a {
+    color: #FFFFFF;
+    padding-right: 0.5rem;
+}
